@@ -1,4 +1,4 @@
-# SuperClaude v3 🚀
+# Baby Goats Command Center (BGCC) 🐐🚀
 [![Website Preview](https://img.shields.io/badge/Visit-Website-blue?logo=google-chrome)](https://superclaude-org.github.io/SuperClaude_Website/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://img.shields.io/pypi/v/SuperClaude.svg)](https://pypi.org/project/SuperClaude/)
@@ -8,7 +8,7 @@
 [![Contributors](https://img.shields.io/github/contributors/SuperClaude-Org/SuperClaude_Framework)](https://github.com/SuperClaude-Org/SuperClaude_Framework/graphs/contributors)
 [![Website](https://img.shields.io/website?url=https://superclaude-org.github.io/SuperClaude_Website/)](https://superclaude-org.github.io/SuperClaude_Website/)
 
-A framework that extends Claude Code with specialized commands, personas, and MCP server integration.
+A framework that extends Claude Code with specialized commands, personas, and MCP server integration, built for Baby Goats.
 
 **📢 Status**: Initial release, fresh out of beta! Bugs may occur as we continue improving things.
 
